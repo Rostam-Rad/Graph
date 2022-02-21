@@ -71,7 +71,5 @@ class Graph{
     Node * findNode(int nodeValue);//traverses the list and finds a node
     void insertAtHead(Node * aNode);//insert a node at the head od list
 
-    // ***************************************************
-    // Any private helper functions must be delared here!
-    // ***************************************************
+
 };
