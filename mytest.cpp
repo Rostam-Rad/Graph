@@ -1,10 +1,5 @@
 #include "graph.h"
-/*
-Author: Rostam Boroumand Rad
-Email: r66@umbc.edu
-Professor: Donyaee
-Description: Testing file for proj 1.
-*/
+
 class Tester{ // Tester class to implement test functions
 public:
   bool testAltConstructor();
