@@ -1,4 +1,3 @@
-//UMBC - CSEE - CMSC 341 - Fall 2021 - Proj1
 #pragma once
 #include <iostream>
 #include <string>
